@@ -1,15 +1,14 @@
 # PNU_3991_AR
 ---------
-### میرمحمد کمالی
+### شقایق عابدینی
  
 ---
-- [github](https://github.com/mir-mohammad/)
-- [PNU_3991_AR](https://github.com/mir-mohammad/PNU_3991_AR)
-- [resume](https://mir-mohammad.github.io/)
-- [SOP](https://mir-mohammad.github.io/SOP/) 
+- [github](https://github.com/shaghayegh-abedini)
+- [PNU_3991_AR](https://github.com/shaghayegh-abedini/PNU_3991_AR)
+- [resume](https://shaghayegh-abedini.github.io/)
+- [SOP](https://shaghayegh-abedini.github.io/SOP/) 
 - [javascript Certificate](js.pdf)
-- [HTML Certificate](html.pdf)
-- [jlord patchwork](jlord.png)
+- [jlord patchwork]()
   
 
 ------------------
