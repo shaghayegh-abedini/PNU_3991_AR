@@ -16,8 +16,7 @@
 
 ## دروس کارشناسی
 
-[1115157_01   نظريه زبانهاوماشين ها ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/Theory-of-Languages-and-Machines)
-<br>
+
 [1322108_01 تعامل انسان و كامپيوتر ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/HumanComputerInteraction)
 <br>
 [1322110_01 طراحي واسط كاربر ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/UserInterfaceDesgin)
@@ -116,7 +115,7 @@
     <th >اصول طراحی کامپایلر</th>
     <th ></th>
     <th ></th>
-    <th>نظریه زبان ها و ماشین</th>
+   
     <th></th>
     <th>شنبه</th>
   </tr>
