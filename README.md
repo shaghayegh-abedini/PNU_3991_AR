@@ -7,7 +7,7 @@
 - [PNU_3991_AR](https://github.com/shaghayegh-abedini/PNU_3991_AR)
 - [resume](https://shaghayegh-abedini.github.io/)
 - [SOP](https://shaghayegh-abedini.github.io/SOP/) 
-- [javascript Certificate](js.pdf)
+- [javascript Certificate](picture.jpeg)
 - [jlord patchwork](picture.png)
   
 
