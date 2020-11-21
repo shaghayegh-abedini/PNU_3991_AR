@@ -8,7 +8,7 @@
 - [resume](https://shaghayegh-abedini.github.io/)
 - [SOP](https://shaghayegh-abedini.github.io/SOP/) 
 - [javascript Certificate](js.pdf)
-- [jlord patchwork]()
+- [jlord patchwork](picture.png)
   
 
 ------------------
