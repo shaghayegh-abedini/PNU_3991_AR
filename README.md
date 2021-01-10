@@ -64,6 +64,7 @@
 
 ## روز و ساعت ارائه دروس
 
+<div dir="rtl">
 
 <table style="width:100%">
   <tr>
