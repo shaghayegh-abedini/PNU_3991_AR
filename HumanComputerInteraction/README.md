@@ -21,6 +21,8 @@ Published online: November 2020
 
 ### :لینک به صورت جداگانه 
 mir-mohammad.github.io/learning/
+
+- [ جزيیات پروژه]()
 ---------
 ### :اعضای گروه
 1. [G-H02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
