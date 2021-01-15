@@ -16,13 +16,13 @@ Published online: November 2020
 ------------------
 
 ### لینک پروژه نهایی
-[ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
+- [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
+- [ جزئیات پروژه](https://github.com/shaghayegh-abedini/PNU_3991_AR/blob/main/HumanComputerInteraction/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%20%D9%BE%D8%B1%D9%88%DA%98%D9%87.pdf)
 
 ### :لینک به صورت جداگانه 
 mir-mohammad.github.io/learning/
 
-- [ جزيیات پروژه]()
 ---------
 ### :اعضای گروه
 1. [G-H02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
