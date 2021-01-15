@@ -25,8 +25,9 @@ PhD students Janin Koch and Pedram Daee.
 ------------------
 
 ### لینک پروژه نهایی
-[ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
+- [ اینجا کلیک کنید](mir-mohammad.github.io/learning/)
 
+- [جزئیات پروژه]()
 
 ### :لینک به صورت جداگانه 
 mir-mohammad.github.io/learning/
